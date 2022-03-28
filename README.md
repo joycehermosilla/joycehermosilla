@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @joycehermosilla
 - 👀 I’m interested in UX/UI Design, Art and Typography.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jlhermosilla@uc.cl 
 
 <!---
